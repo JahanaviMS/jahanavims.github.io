@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: "Jahanavi M S"
+description: "Microsoft Certified Power BI Data Analyst (PL-300) | Power BI Developer | Data Analyst"
+logo: /assets/profile-pic.png
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
