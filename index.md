@@ -13,7 +13,6 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 </section>
 
 <section>
-<h2>🛠 Skills</h2>
 
 ## 🛠 Skills
 - **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Optimization  
@@ -24,7 +23,6 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 </section>
 
 <section>
-<h2>📊 Featured Projects</h2>
 
 ## 📊 Featured Projects
 
@@ -92,7 +90,7 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 </section>
 
 <section>
-<h2>🎓 Certifications</h2>
+
 
 ## 🎓 Certifications
 - **Microsoft Certified: Power BI Data Analyst (PL-300)**  
