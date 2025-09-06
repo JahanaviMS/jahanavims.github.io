@@ -3,97 +3,80 @@
 <section>
 <h1>👋 About Me</h1>
 
-# 👋 Hi, I'm Jahanavi 
-
+**Hi, I'm Jahanavi M S**  
 **Microsoft Certified: Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
 
-I turn raw data into **clear, decision-ready insights** using Power BI, DAX, Power Query, SQL, and Excel.  
-Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting by **30%**, and enabling self-service BI with RLS, dataflows, and governance.
+I transform raw data into **decision-ready insights** using Power BI, DAX, Power Query, SQL, and Excel.  
+With 5+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, automated reporting pipelines (30% time saved), and enabled self-service BI across multiple domains.
 
 </section>
 
 <section>
+<h2>🛠 Skills</h2>
 
-## 🛠 Skills
-- **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Optimization  
-- **Data:** SQL Server, Excel (Advanced), Data Modeling, Gateways, Incremental Refresh  
-- **Other Tools:** Power Automate, Python (Basic), R (Basic)  
-- **Soft Skills:** Stakeholder Engagement, Documentation, Process Improvement  
+- **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Performance Optimization  
+- **Data:** SQL, Excel (Advanced), Data Modeling, ETL, Gateway Administration  
+- **Tools:** Power Automate, Python (Basic), R (Basic)  
+- **Collaboration:** Stakeholder Engagement, Documentation, SOP Creation, Process Improvement  
 
 </section>
 
 <section>
+<h2>📊 Featured Projects</h2>
 
-## 📊 Featured Projects
-
-### 🛒 E-commerce Sales Report
-
-<p float="left">
-  <img src="/assets/Ecommerce_Overview.png" width="100%">
-  <img src="/assets/Ecomerce_Sales Page.png" width="100%">
-  <img src="/assets/Sales_page.png" width="100%">
-</p>
-
-<p float="left">
-  <img src="/assets/Ecommerce_Product View.png" width="100%">
-  <img src="/assets/Ecomerce_Employee Page.png" width="100%">
-</p>
-
-Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-40% manual).  
+### 🍕 Pizza Sales Dashboard
+<img src="/assets/pizza.png" width="100%">
+Analyzed order frequency, top-selling items, and channel performance to identify peak hours and optimize staffing.  
 **Tech Stack:** Power BI, DAX, Power Query  
-
 [🔗 View Dashboard](#)
-
 
 ---
 
-
-### 🍕 Pizza Sales Dashboard
-Order frequency, channel-wise performance, and peak hours for staffing decisions.  
+### 🛒 E-commerce Sales Report
+<img src="/assets/ecommerce-1.png" width="100%">
+<img src="/assets/ecommerce-2.png" width="100%">
+Visualized YoY sales trends, customer cohorts, and automated refresh pipelines (40% less manual work).  
 **Tech Stack:** Power BI, DAX, Power Query  
-[View Dashboard](#)
-
+[🔗 View Dashboard](#)
 
 ---
 
 ### 🏦 American Bank Analysis
-Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.  
+<img src="/assets/bank.png" width="100%">
+Branch-wise KPI insights and demographic segmentation to guide loan disbursal strategy.  
 **Tech Stack:** Power BI, DAX, Data Modeling  
-[View Dashboard](#)
-
-
+[🔗 View Dashboard](#)
 
 ---
 
-> More projects: IT Tickets (SLA), Procurement Spend, HR Analytics, Financials (Budget vs Actuals), Natural Disasters (Geo-mapping), Product Analysis (Returns & Reviews).
+### 📞 Call Centre KPIs (PwC Virtual Internship)
+<img src="/assets/call-centre.png" width="100%">
+Agent productivity, SLA adherence, and resolution trends with drill-through analysis.  
+**Tech Stack:** Power BI, DAX, Drill-through  
+[🔗 View Dashboard](#)
 
 ---
 
-## 💼 Experience
+### 👥 Diversity & Inclusion (PwC)
+<img src="/assets/diversity.png" width="100%">
+Demographic trends, equity representation, and actionable insights for leadership.  
+**Tech Stack:** Power BI, DAX, Storytelling  
+[🔗 View Dashboard](#)
 
-**HP Inc. — Data Analyst (Quality Program / Product Quality)**  
-- Built enterprise Power BI dashboards across SQL/Hyperion/CDAX; KPI visibility for AMS/EMEA/APJ.  
-- Automated data prep → **30% less manual work**, faster turnaround.  
-- Root-cause dashboards reduced **AIR by 2%** and cut warranty costs.  
-- Set up RLS, dataflows, gateways; authored SOPs; boosted BI adoption **25%**.
+---
 
-**Independent Consultant — Data Analytics**  
-- Delivered 20+ dashboards for banking, HR, procurement, retail.  
-- Optimized models and refresh pipelines; improved accuracy and speed.
-
-**PwC Virtual Internship — Data Analytics (Forage)**  
-- Churn, Call Centre, and Diversity & Inclusion dashboards with storytelling.
-
-
-
+### 🚪 Churn Analysis (PwC)
+<img src="/assets/churn.png" width="100%">
+Predicted attrition segments and recommended retention strategies with lift analysis.  
+**Tech Stack:** Power BI, DAX  
+[🔗 View Dashboard](#)
 
 </section>
 
 <section>
+<h2>🎓 Certifications</h2>
 
-
-## 🎓 Certifications
-- **Microsoft Certified: Power BI Data Analyst (PL-300)**  
+- ![PL-300 Badge](/assets/pl300.png) **Microsoft Certified: Power BI Data Analyst (PL-300)**  
 - Power BI Developer – Pro Visualizers  
 - Lean Six Sigma AI Yellow Belt – S&G  
 - PwC Virtual Internship – Data Analytics (Forage)
@@ -103,6 +86,8 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 <section>
 <h2>📬 Contact</h2>
 
-## 📬 Contact
 - **LinkedIn:** [linkedin.com/in/jahanavims](https://linkedin.com/in/jahanavims)  
-- **Email:** jahanavims6666@gmail.com
+- **Email:** [mailto:jahxxxxxxxx@gmail.com](mailto:jahxxxxxxxx@gmail.com)  
+- 📄 [Download Resume](/assets/Jahanavi_MS_Resume.pdf)
+
+</section>
