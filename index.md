@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="/assets/style.css">
+
+<section>
+<h1>👋 About Me</h1>
+
 # 👋 Hi, I'm Jahanavi 
 
 **Microsoft Certified: Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
@@ -5,7 +10,10 @@
 I turn raw data into **clear, decision-ready insights** using Power BI, DAX, Power Query, SQL, and Excel.  
 Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting by **30%**, and enabling self-service BI with RLS, dataflows, and governance.
 
----
+</section>
+
+<section>
+<h2>🛠 Skills</h2>
 
 ## 🛠 Skills
 - **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Optimization  
@@ -13,7 +21,10 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 - **Other Tools:** Power Automate, Python (Basic), R (Basic)  
 - **Soft Skills:** Stakeholder Engagement, Documentation, Process Improvement  
 
----
+</section>
+
+<section>
+<h2>📊 Featured Projects</h2>
 
 ## 📊 Featured Projects
 
@@ -67,7 +78,10 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 **PwC Virtual Internship — Data Analytics (Forage)**  
 - Churn, Call Centre, and Diversity & Inclusion dashboards with storytelling.
 
----
+</section>
+
+<section>
+<h2>🎓 Certifications</h2>
 
 ## 🎓 Certifications
 - **Microsoft Certified: Power BI Data Analyst (PL-300)**  
@@ -75,7 +89,10 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 - Lean Six Sigma AI Yellow Belt – S&G  
 - PwC Virtual Internship – Data Analytics (Forage)
 
----
+</section>
+
+<section>
+<h2>📬 Contact</h2>
 
 ## 📬 Contact
 - **LinkedIn:** [linkedin.com/in/jahanavims](https://linkedin.com/in/jahanavims)  
