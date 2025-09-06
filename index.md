@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jahanavi M S
+# 👋 Hi, I'm Jahanavi 
 
 **Microsoft Certified: Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
 
@@ -17,6 +17,11 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 
 ## 📊 Featured Projects
 
+### 🛒 E-commerce Sales Report
+Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-40% manual).  
+**Tech Stack:** Power BI, DAX, Power Query  
+[View Dashboard](#)
+
 ### 🍕 Pizza Sales Dashboard
 Order frequency, channel-wise performance, and peak hours for staffing decisions.  
 **Tech Stack:** Power BI, DAX, Power Query  
@@ -27,10 +32,7 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 **Tech Stack:** Power BI, DAX, Data Modeling  
 [View Dashboard](#)
 
-### 🛒 E-commerce Sales Report
-Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-40% manual).  
-**Tech Stack:** Power BI, DAX, Power Query  
-[View Dashboard](#)
+
 
 > More projects: IT Tickets (SLA), Procurement Spend, HR Analytics, Financials (Budget vs Actuals), Natural Disasters (Geo-mapping), Product Analysis (Returns & Reviews).
 
