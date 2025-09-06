@@ -18,9 +18,23 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 ## 📊 Featured Projects
 
 ### 🛒 E-commerce Sales Report
+
+<p float="left">
+  <img src="/assets/Ecommerce_Overview.png" width="48%">
+  <img src="/assets/Ecomerce_Sales Page.png" width="48%">
+  <img src="/assets/Sales_page.png" width="48%">
+</p>
+
+<p float="left">
+  <img src="/assets/Ecommerce_Product View.png" width="48%">
+  <img src="/assets/Ecomerce_Employee Page.png" width="48%">
+</p>
+
 Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-40% manual).  
 **Tech Stack:** Power BI, DAX, Power Query  
-[View Dashboard](#)
+
+[🔗 View Dashboard](#)
+
 
 ### 🍕 Pizza Sales Dashboard
 Order frequency, channel-wise performance, and peak hours for staffing decisions.  
