@@ -47,10 +47,16 @@ Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-4
 [🔗 View Dashboard](#)
 
 
+---
+
+
 ### 🍕 Pizza Sales Dashboard
 Order frequency, channel-wise performance, and peak hours for staffing decisions.  
 **Tech Stack:** Power BI, DAX, Power Query  
 [View Dashboard](#)
+
+
+---
 
 ### 🏦 American Bank Analysis
 Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.  
@@ -58,6 +64,8 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 [View Dashboard](#)
 
 
+
+---
 
 > More projects: IT Tickets (SLA), Procurement Spend, HR Analytics, Financials (Budget vs Actuals), Natural Disasters (Geo-mapping), Product Analysis (Returns & Reviews).
 
@@ -77,6 +85,9 @@ Branch-wise KPIs and demographic segmentation to guide loan disbursal strategy.
 
 **PwC Virtual Internship — Data Analytics (Forage)**  
 - Churn, Call Centre, and Diversity & Inclusion dashboards with storytelling.
+
+
+
 
 </section>
 
