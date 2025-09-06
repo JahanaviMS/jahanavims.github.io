@@ -20,14 +20,14 @@ Previously at **HP Inc.**, delivering KPI dashboards, reducing manual reporting 
 ### 🛒 E-commerce Sales Report
 
 <p float="left">
-  <img src="/assets/Ecommerce_Overview.png" width="48%">
-  <img src="/assets/Ecomerce_Sales Page.png" width="48%">
-  <img src="/assets/Sales_page.png" width="48%">
+  <img src="/assets/Ecommerce_Overview.png" width="100%">
+  <img src="/assets/Ecomerce_Sales Page.png" width="100%">
+  <img src="/assets/Sales_page.png" width="100%">
 </p>
 
 <p float="left">
-  <img src="/assets/Ecommerce_Product View.png" width="48%">
-  <img src="/assets/Ecomerce_Employee Page.png" width="48%">
+  <img src="/assets/Ecommerce_Product View.png" width="100%">
+  <img src="/assets/Ecomerce_Employee Page.png" width="100%">
 </p>
 
 Interactive YoY comparisons, AOV trends, customer cohorts; automated refresh (-40% manual).  
