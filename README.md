@@ -10,7 +10,7 @@ This portfolio highlights my work as a **Microsoft Certified Power BI Data Analy
 ---
 
 ## 🧾 About Me
-I am a Data Analyst & Power BI Developer with 5+ years of experience in building scalable BI solutions, KPI dashboards, and data-driven decision-making tools.  
+I am a Data Analyst & Power BI Developer with 4+ years of experience in building scalable BI solutions, KPI dashboards, and data-driven decision-making tools.  
 Previously worked at **HP Inc.** where I:
 - Automated data pipelines (saving 30% manual effort)
 - Delivered KPI dashboards across AMS, EMEA, and APJ regions
@@ -32,10 +32,15 @@ Currently working as an independent consultant delivering dashboards for banking
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🍕 **Pizza Sales Dashboard** | Analyzed order frequency, top-selling items, and channel performance to optimize staffing decisions | Power BI, DAX, Power Query |
+
 | 🛒 **E-commerce Sales Report** | Built interactive YoY comparisons, customer cohort analysis, and automated refresh pipelines (40% less manual reporting) | Power BI, DAX |
+
 | 🏦 **American Bank Analysis** | Delivered branch-wise KPI insights, segmentation for loans, and demographic analysis | Power BI, SQL |
+
 | 📞 **Call Centre Analysis (PwC)** | Visualized agent productivity, SLA adherence, and resolution times with drill-throughs | Power BI |
+
 | 👥 **Diversity & Inclusion (PwC)** | Built D&I dashboards to track equity representation and workforce trends | Power BI |
+
 | 🚪 **Churn Analysis (PwC)** | Designed retention models and visualized customer attrition drivers | Power BI |
 
 > 🖼️ See **screenshots and live dashboards** on my [Portfolio Website](https://jahanavims.github.io).
@@ -53,7 +58,7 @@ Currently working as an independent consultant delivering dashboards for banking
 ## 📬 Connect with Me
 - **Portfolio:** [https://jahanavims.github.io](https://jahanavims.github.io)
 - **LinkedIn:** [linkedin.com/in/jahanavims](https://linkedin.com/in/jahanavims)
-- **Email:** jahxxxxxxxx@gmail.com
+- **Email:** jahanavims6666@gmail.com
 
 ---
 
