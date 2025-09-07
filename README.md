@@ -37,15 +37,10 @@ Currently working as an independent consultant delivering dashboards for banking
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🍕 **Pizza Sales Dashboard** |Analyzed order frequency, top-selling items, and channel performance to optimize staffing decisions | Power BI, DAX, Power Query |
-
-| 🛒 **E-commerce Sales Report** | Built interactive YoY comparisons, customer cohort analysis, and automated refresh pipelines (40% less manual reporting) | Power BI, DAX |
-
+| 🛒 **E-commerce Sales Report** |Built interactive YoY comparisons, customer cohort analysis, and automated refresh pipelines (40% less manual reporting) | Power BI, DAX |
 | 🏦 **American Bank Analysis** |Delivered branch-wise KPI insights, segmentation for loans, and demographic analysis | Power BI, SQL |
-
 | 📞 **Call Centre Analysis (PwC)** | Visualized agent productivity, SLA adherence, and resolution times with drill-throughs | Power BI |
-
 | 👥 **Diversity & Inclusion (PwC)** |Built D&I dashboards to track equity representation and workforce trends | Power BI |
-
 | 🚪 **Churn Analysis (PwC)** | Designed retention models and visualized customer attrition drivers | Power BI |
 
 > 🖼️ See **screenshots and live dashboards** on my [Portfolio Website](https://jahanavims.github.io).
