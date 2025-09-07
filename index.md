@@ -4,20 +4,21 @@
 <h1>👋 About Me</h1>
 
 **Hi, I'm Jahanavi M S**  
-**Microsoft Certified: Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
+
+**Microsoft Certified: Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst .
 
 I transform raw data into **decision-ready insights** using Power BI, DAX, Power Query, SQL, and Excel.  
-With 5+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, automated reporting pipelines (30% time saved), and enabled self-service BI across multiple domains.
+With 4+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, automated reporting pipelines (30% time saved), and enabled self-service BI across multiple domains.
 
 </section>
 
 <section>
 <h2>🛠 Skills</h2>
 
-- **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Performance Optimization  
-- **Data:** SQL, Excel (Advanced), Data Modeling, ETL, Gateway Administration  
-- **Tools:** Power Automate, Python (Basic), R (Basic)  
-- **Collaboration:** Stakeholder Engagement, Documentation, SOP Creation, Process Improvement  
+- **Power BI** :  Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Performance Optimization  
+- **Data** : SQL, Excel (Advanced), Data Modeling, ETL, Gateway Administration  
+- **Tools** : Power Automate, Python (Basic), R (Basic)  
+- **Collaboration** : Stakeholder Engagement, Documentation, SOP Creation, Process Improvement  
 
 </section>
 
@@ -26,7 +27,7 @@ With 5+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, au
 
 ### 🍕 Pizza Sales Dashboard
 <img src="/assets/pizza.png" width="100%">
-Analyzed order frequency, top-selling items, and channel performance to identify peak hours and optimize staffing.  
+**Outcome** : Analyzed order frequency, top-selling items, and channel performance to identify peak hours and optimize staffing.  
 **Tech Stack:** Power BI, DAX, Power Query  
 [🔗 View Dashboard](#)
 
@@ -87,7 +88,7 @@ Predicted attrition segments and recommended retention strategies with lift anal
 <h2>📬 Contact</h2>
 
 - **LinkedIn:** [linkedin.com/in/jahanavims](https://linkedin.com/in/jahanavims)  
-- **Email:** [mailto:jahxxxxxxxx@gmail.com](mailto:jahxxxxxxxx@gmail.com)  
+- **Email:** [mailto:jahxxxxxxxx@gmail.com](mailto:msjahanavi6666@gmail.com)  
 - 📄 [Download Resume](/assets/Jahanavi_MS_Resume.pdf)
 
 </section>
