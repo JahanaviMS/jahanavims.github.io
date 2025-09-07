@@ -53,13 +53,13 @@ With 4+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, au
 <section>
 <h2> 🛒 E-commerce Sales Report</h2>
 
-<img src="/assets/Ecommerce_Overview" width="100%">
+<img src="/assets/Ecommerce_Overview.PNG" width="100%">
 
 
 
-<img src="/assets/Ecomerce_Sales Page" width="100%">  <img src="/assets/Sales_page" width="100%">
+<img src="/assets/Ecomerce_Sales Page.PNG" width="100%">  <img src="/assets/Ecomerce_Employee Page.PNG" width="100%">
 
-<img src="/assets/Ecomerce_Employee Page" width="100%">    
+<img src="/assets/Ecommerce_Product View.PNG" width="100%">    <img src="/assets/Sales.PNG" width="100%">  
 
 - Visualized YoY sales trends, customer cohorts
 - Automated refresh pipelines (40% less manual work).  
