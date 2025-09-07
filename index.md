@@ -74,6 +74,8 @@ Agent productivity, SLA adherence, and resolution trends with drill-through anal
 
 ### 👥 Diversity & Inclusion (PwC)
 <img src="/assets/diversity.png" width="100%">
+
+
 Demographic trends, equity representation, and actionable insights for leadership.  
 **Tech Stack:** Power BI, DAX, Storytelling  
 [🔗 View Dashboard](#)
@@ -82,6 +84,8 @@ Demographic trends, equity representation, and actionable insights for leadershi
 
 ### 🚪 Churn Analysis (PwC)
 <img src="/assets/churn.png" width="100%">
+
+
 Predicted attrition segments and recommended retention strategies with lift analysis.  
 **Tech Stack:** Power BI, DAX  
 [🔗 View Dashboard](#)
@@ -102,7 +106,7 @@ Predicted attrition segments and recommended retention strategies with lift anal
 <h2>📬 Contact</h2>
 
 - **LinkedIn:** [linkedin.com/in/jahanavims](https://linkedin.com/in/jahanavims)  
-- **Email:** [mailto:jahxxxxxxxx@gmail.com](mailto:msjahanavi6666@gmail.com)  
+- **Email:** [mailto:jahanavims6666@gmail.com](mailto:msjahanavi6666@gmail.com)  
 - 📄 [Download Resume](/assets/Jahanavi_MS_Resume.pdf)
 
 </section>
