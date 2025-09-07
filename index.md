@@ -27,15 +27,25 @@ With 4+ years of experience (HP Inc. + Freelance), I've built KPI dashboards, au
 
 ### 🍕 Pizza Sales Dashboard
 <img src="/assets/pizza.png" width="100%">
+
+
+
 **Outcome** : Analyzed order frequency, top-selling items, and channel performance to identify peak hours and optimize staffing.  
 **Tech Stack:** Power BI, DAX, Power Query  
+
 [🔗 View Dashboard](#)
 
 ---
 
 ### 🛒 E-commerce Sales Report
 <img src="/assets/ecommerce-1.png" width="100%">
+
+
+
 <img src="/assets/ecommerce-2.png" width="100%">
+
+
+
 Visualized YoY sales trends, customer cohorts, and automated refresh pipelines (40% less manual work).  
 **Tech Stack:** Power BI, DAX, Power Query  
 [🔗 View Dashboard](#)
@@ -44,6 +54,8 @@ Visualized YoY sales trends, customer cohorts, and automated refresh pipelines (
 
 ### 🏦 American Bank Analysis
 <img src="/assets/bank.png" width="100%">
+
+
 Branch-wise KPI insights and demographic segmentation to guide loan disbursal strategy.  
 **Tech Stack:** Power BI, DAX, Data Modeling  
 [🔗 View Dashboard](#)
@@ -52,6 +64,8 @@ Branch-wise KPI insights and demographic segmentation to guide loan disbursal st
 
 ### 📞 Call Centre KPIs (PwC Virtual Internship)
 <img src="/assets/call-centre.png" width="100%">
+
+
 Agent productivity, SLA adherence, and resolution trends with drill-through analysis.  
 **Tech Stack:** Power BI, DAX, Drill-through  
 [🔗 View Dashboard](#)
