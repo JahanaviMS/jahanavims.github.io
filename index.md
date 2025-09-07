@@ -43,9 +43,9 @@ Previously at <strong>HP Inc.</strong>, I delivered KPI dashboards, automated re
 <hr>
 
 <h3>🛒 E-commerce Sales Report</h3>
-<img src="/assets/Ecommerce_Overview.png" width="100%">                     <img src="/assets/Ecomerce_Sales Page.png" width="100%">
-<img src="/assets/Ecommerce_Product View.png" width="100%">                 <img src="/assets/Ecomerce_Employee.png" width="100%">
-<img src="/assets/Sales_page.png" width="100%">
+<img src="/assets/Ecommerce_Overview.PNG" width="100%">                     <img src="/assets/Ecomerce_Sales Page.PNG" width="100%">
+<img src="/assets/Ecommerce_Product View.PNG" width="100%">                 <img src="/assets/Ecomerce_Employee.PNG" width="100%">
+<img src="/assets/Sales_page.PNG" width="100%">
 <ul>
 <li>Built interactive YoY comparisons, customer cohort analysis, and AOV trends</li>
 <li>Automated refresh pipelines → 40% less manual reporting work</li>
