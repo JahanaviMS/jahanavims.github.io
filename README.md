@@ -1,6 +1,6 @@
 # 📊 Jahanavi M S — Power BI Developer | Data Analyst
 
-![PL-300 Badge](/assets/pl300.png)
+![PL-300 Badge](/assets/PL 300.png)
 
 Welcome to the repository for my **personal portfolio website**:  
 🔗 **Live Site:** [https://jahanavims.github.io](https://jahanavims.github.io)
@@ -12,6 +12,7 @@ This portfolio highlights my work as a **Microsoft Certified Power BI Data Analy
 ## 🧾 About Me
 I am a Data Analyst & Power BI Developer with 4+ years of experience in building scalable BI solutions, KPI dashboards, and data-driven decision-making tools.  
 Previously worked at **HP Inc.** where I:
+
 - Automated data pipelines (saving 30% manual effort)
 - Delivered KPI dashboards across AMS, EMEA, and APJ regions
 - Reduced AIR rates by 2%, driving warranty cost optimization
@@ -21,25 +22,29 @@ Currently working as an independent consultant delivering dashboards for banking
 ---
 
 ## 🔧 Skills
-- **Power BI:** Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Report Optimization
-- **Data:** SQL Server, Excel (Advanced), Data Cleaning, Data Modeling
-- **Tools:** Power Automate, Gateway Administration, Python (Basic), R (Basic)
-- **Business:** Stakeholder Engagement, Documentation, SOP Creation, Process Improvement
+- **Power BI:**
+   Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports, Report Optimization
+- **Data:**
+   SQL Server, Excel (Advanced), Data Cleaning, Data Modeling
+- **Tools:**
+   Power Automate, Gateway Administration, Python (Basic), R (Basic)
+- **Business:**
+   Stakeholder Engagement, Documentation, SOP Creation, Process Improvement
 
 ---
 
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🍕 **Pizza Sales Dashboard** | Analyzed order frequency, top-selling items, and channel performance to optimize staffing decisions | Power BI, DAX, Power Query |
+| 🍕 **Pizza Sales Dashboard** |Analyzed order frequency, top-selling items, and channel performance to optimize staffing decisions | Power BI, DAX, Power Query |
 
 | 🛒 **E-commerce Sales Report** | Built interactive YoY comparisons, customer cohort analysis, and automated refresh pipelines (40% less manual reporting) | Power BI, DAX |
 
-| 🏦 **American Bank Analysis** | Delivered branch-wise KPI insights, segmentation for loans, and demographic analysis | Power BI, SQL |
+| 🏦 **American Bank Analysis** |Delivered branch-wise KPI insights, segmentation for loans, and demographic analysis | Power BI, SQL |
 
 | 📞 **Call Centre Analysis (PwC)** | Visualized agent productivity, SLA adherence, and resolution times with drill-throughs | Power BI |
 
-| 👥 **Diversity & Inclusion (PwC)** | Built D&I dashboards to track equity representation and workforce trends | Power BI |
+| 👥 **Diversity & Inclusion (PwC)** |Built D&I dashboards to track equity representation and workforce trends | Power BI |
 
 | 🚪 **Churn Analysis (PwC)** | Designed retention models and visualized customer attrition drivers | Power BI |
 
