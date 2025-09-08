@@ -1,10 +1,29 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll
+
 title: "Jahanavi M S"
-description: "Microsoft Certified Power BI Data Analyst (PL-300) | Power BI Developer | Data Analyst"
-logo: /assets/profile-pic.png
-show_downloads: false
-markdown: kramdown
-kramdown:
-  input: GFM
+description: "Microsoft certified Power BI Data Analyst Assosciate ( PL-300 Certified)| Power BI Developer | Data Analyst |"
+
+# Navbar Links
+navbar-links:
+  About: "#aboutme"
+  Projects: "#projects"
+  Certifications: "#certifications"
+  Contact: "#contact"
+
+# Profile Picture
+avatar: "/assets/profile-pic.png"
+
+# Social Media Icons
+social-network-links:
+  linkedin: jahanavims
+  email: jahanavims6666@gmail.com
+
+# Footer options
+footer-links-active:
+  linkedin: true
+  email: true
+
+# Theme Options
+permalink: /:title/
+plugins:
+  - jekyll-remote-theme
