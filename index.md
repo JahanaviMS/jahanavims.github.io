@@ -1,16 +1,16 @@
 ---
-layout: home
-title: "Home"
----
+<p align="LEFT CORNER">
+  <img src="/assets/PL 300.png" width="100" alt="PL-300 Badge">
+</p>
 
-## 👋 About Me {#aboutme}
+
+
+## 👋 About Me 
 
 Hi, I'm **Jahanavi M S**  
 Microsoft Certified **Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
 
-<p align="center">
-  <img src="/assets/pl300-badge.png" width="160" alt="PL-300 Badge">
-</p>
+
 
 I transform raw data into decision-ready insights using Power BI, DAX, Power Query, SQL, and Excel.  
 Previously at HP Inc., I delivered KPI dashboards, automated reporting pipelines (30% less manual effort), and enabled self-service BI.
@@ -19,17 +19,13 @@ Previously at HP Inc., I delivered KPI dashboards, automated reporting pipelines
 
 ## 🛠 Skills
 
-**Power BI**  
-- Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports  
+**Power BI**  - Desktop, Service, DAX, Power Query, Dataflows, RLS, Paginated Reports  
 
-**Data**  
-- SQL, Excel (Advanced), Data Modeling, ETL, Gateway Administration  
+**Data**  - SQL, Excel (Advanced), Data Modeling, ETL, Gateway Administration  
 
-**Tools**  
-- Power Automate, Python (Basic), R (Basic)  
+**Tools**  - Power Automate, Python (Basic), R (Basic)  
 
-**Collaboration**  
-- Stakeholder Engagement, Documentation, SOP Creation, Process Improvement  
+**Collaboration**  - Stakeholder Engagement, Documentation, SOP Creation, Process Improvement  
 
 ---
 
@@ -105,7 +101,7 @@ Previously at HP Inc., I delivered KPI dashboards, automated reporting pipelines
 ## 🎓 Certifications {#certifications}
 
 <p align="center">
-  <img src="/assets/pl300-badge.png" width="160" alt="PL-300 Badge">
+  <img src="/assets/PL 300.png" width="160" alt="PL-300 Badge">
 </p>
 
 - Microsoft Certified: Power BI Data Analyst (PL-300)
