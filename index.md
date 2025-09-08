@@ -43,9 +43,11 @@ Previously at HP Inc., I delivered KPI dashboards, automated reporting pipelines
 
 ### Freelance & Upskilling (2022 – Present)
 - Completed **PwC Virtual Internship** (Churn Analysis, Call Centre KPIs, Diversity & Inclusion dashboards)  
-- Built 20+ **independent Power BI projects** across banking, HR, e-commerce, procurement, and operations  
+- Built 20+ independent Power BI projects across banking, HR, e-commerce, procurement, and operations  
 - Improved storytelling and data modeling skills through hands-on projects  
+
 ---
+
 
 ## 📊 Featured Projects {#projects}
 
