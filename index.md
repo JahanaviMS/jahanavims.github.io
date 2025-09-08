@@ -1,4 +1,10 @@
+
 ---
+layout: home
+title: ""
+---
+
+
 <p style="text-align:right;">
   <img src="/assets/PL 300.png" width="100" alt="PL-300 Badge">
 </p>
