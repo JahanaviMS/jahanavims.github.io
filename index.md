@@ -1,13 +1,15 @@
 ---
-<p align="LEFT CORNER">
+<p style="text-align:right;">
   <img src="/assets/PL 300.png" width="100" alt="PL-300 Badge">
 </p>
 
+# Jahanavi M S
+Microsoft Certified **Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst
 
 
 ## 👋 About Me 
 
-Hi, I'm **Jahanavi M S**  
+Hi, I'm  **Jahanavi M S**  
 Microsoft Certified **Power BI Data Analyst (PL-300)** · Power BI Developer · Data Analyst  
 
 
@@ -43,8 +45,8 @@ Previously at HP Inc., I delivered KPI dashboards, automated reporting pipelines
 
 ### Freelance & Upskilling (2022 – Present)
 - Completed **PwC Virtual Internship** (Churn Analysis, Call Centre KPIs, Diversity & Inclusion dashboards)  
-- Built 20+ independent Power BI projects across banking, HR, e-commerce, procurement, and operations  
-- Improved storytelling and data modeling skills through hands-on projects  
+- Built 20+ independent Power BI projects across banking, HR, e-commerce, procurement, and operations
+- Improved storytelling and data modeling skills through hands-on projects
 
 ---
 
