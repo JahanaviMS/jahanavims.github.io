@@ -19,18 +19,21 @@ To analyze customer purchase behavior, sales performance, and profitability tren
 ##  Dashboard Screenshots
  
 ### Dashboard Overview
-![Dashboard Overview](./PowerBI_Projects/E-commerce%20Sales%20and%20Product%20Analysis]/images/ecommerce-1.PNG)
+![Dashboard Overview](images/ecommerce-1.PNG)
 
 
 ### Sales by Category
-![Sales by Category](./images/ecommerce-2.png)
+![Sales by Category](images/ecommerce-2.PNG)
 
 ### Regional Trends
-![Regional Trends](./images/ecommerce-3.png)
+![Regional Trends](images/ecommerce-3.PNG)
+
+### Employee Trends
+![Employee Analysis](images/ecommerce-3.PNG)
 
 
 ## 📂 Power BI File
-👉 [Download Ecommerce Insights PBIX](EcommerceInsights.pbix)
+👉 [Download Ecommerce Insights PBIX](https://app.powerbi.com/links/OukTaQXCEF?ctid=12802ece-a88b-4f6d-8b24-1d0bb7c8f43e&pbi_source=linkShare)
 
 ---
 
