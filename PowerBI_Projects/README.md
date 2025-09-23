@@ -20,10 +20,10 @@ To analyze customer purchase behavior, sales performance, and profitability tren
 (Add your exported PNG/JPG screenshots here)
 
 Example:  
-![Ecommerce Dashboard Screenshot 1](ecommerce-1.png)  
-![Ecommerce Dashboard Screenshot 2](ecommerce-2.png)  
-![Ecommerce Dashboard Screenshot 3](ecommerce-3.png)  
-![Ecommerce Dashboard Screenshot 4](ecommerce-4.png)  
+![Ecommerce Dashboard Screenshot 1](ecommerce-1.png.PNG)  
+![Ecommerce Dashboard Screenshot 2](ecommerce-2.png.PNG)  
+![Ecommerce Dashboard Screenshot 3](ecommerce-3.png.PNG)  
+![Ecommerce Dashboard Screenshot 4](ecommerce-4.png.PNG)  
 
 ## 📂 Power BI File
 👉 [Download Ecommerce Insights PBIX](EcommerceInsights.pbix)
