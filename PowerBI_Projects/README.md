@@ -6,7 +6,7 @@ This repository showcases my selected **Power BI projects** covering diverse bus
 
 ## Projects
 
-### [1. E-commerce Sales and Product Analysis](./ecommerce-sales-analysis/README.md)
+### [1. E-commerce Sales and Product Analysis](https://github.com/JahanaviMS/jahanavims.github.io/tree/main)
 Analyzed e-commerce sales data to identify revenue trends, product performance, and customer behavior.  
 Key insights: Top categories contributed majority revenue, discounts drove sales but reduced profit margins, Q4 seasonal spike observed.  
 
