@@ -1,4 +1,4 @@
-#  E-commerce Analytics Dashboard
+#  E-commerce Sales and Product Analysis 
 
 ##  Objective
 To analyze customer purchase behavior, sales performance, and profitability trends for an e-commerce business. The dashboard helps stakeholders make data-driven decisions to improve marketing, product performance, and customer retention.
