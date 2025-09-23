@@ -19,7 +19,7 @@ To analyze customer purchase behavior, sales performance, and profitability tren
 ##  Dashboard Screenshots
  
 ### Dashboard Overview
-![Dashboard Overview](./PowerBI_Projects/E-commerece%20Sales%20and%20Product%20Analysis/images/ecommerce-1.png.PNG)
+![Dashboard Overview](./PowerBI_Projects/E-commerce%20Sales%20and%20Product%20Analysis]/images/ecommerce-1.png.PNG)
 
 ### Sales by Category
 ![Sales by Category](./images/ecommerce-2.png)
