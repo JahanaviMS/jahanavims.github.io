@@ -29,7 +29,7 @@ To analyze customer purchase behavior, sales performance, and profitability tren
 ![Regional Trends](images/ecommerce-3.PNG)
 
 ### Employee Trends
-![Employee Analysis](images/ecommerce-3.PNG)
+![Employee Analysis](images/ecommerce-4.PNG)
 
 
 ## 📂 Power BI File
