@@ -13,7 +13,7 @@ This project is part of the PwC Virtual Internship. I built an interactive **cal
 - Call volume trends showed **peak hours** and **days of the week** with high traffic.  
 
 ## Dashboard Screenshots
-![Call Centre Analysis](./Call%20Center%20Analysis.PNG)  
+![Call Centre Analysis](images/Call%20Center%20Analysis.PNG)  
 
 
 ## Power BI File
