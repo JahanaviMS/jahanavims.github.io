@@ -25,7 +25,7 @@ Key insights: High call volumes on Mondays, long wait times drove dissatisfactio
 
 ---
 
-### [4. PwC Diversity and Inclusion Insights](./pwc-diversity-inclusion/README.md)
+### [4. PwC Diversity and Inclusion Insights](./PwC_Diversity_Inclusion_Insights/README.md)
 Built diversity dashboards to measure representation, promotions, and attrition across departments.  
 Key insights: Gender imbalance at senior levels, under-representation in leadership roles, and higher attrition among minority groups.  
 
