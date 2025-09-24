@@ -31,7 +31,7 @@ Key insights: Gender imbalance at senior levels, under-representation in leaders
 
 ---
 
-### [5. Banking Loan and Risk Portfolio Analysis](./banking-loan-portfolio/README.md)
+### [5. Banking Loan and Risk Portfolio Analysis](./Banking_Loan_Risk_Analysis/README.md)
 Developed dashboards to monitor loan performance, defaults, and portfolio risk.  
 Key insights: High default rates in short-term loans, specific customer segments carried higher risk, and delinquency trends required closer monitoring.  
 
