@@ -1,44 +1,58 @@
-# Jahanavi MS  
-<a href="https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/">
-  <img src="https://img.shields.io/badge/PL--300%20Microsoft%20Power%20BI%20Data%20Analyst-3b82f6?style=flat-square&logo=microsoftpowerbi&logoColor=white" alt="PL-300 Badge"/>
-</a>
+# Hi, I'm Jahanavi M S
 
----
+Microsoft Certified Data Analyst (PL-300) | Power BI Developer | Data Analyst
 
-## About Me  
-I am a Data Analyst with 4+ years of experience in data visualization, reporting, and delivering actionable insights.  
-I have successfully delivered **20+ projects**, both independently and as a **freelancer**, helping businesses transform raw data into meaningful insights.  
-Skilled in Power BI, SQL, Excel, and Data Storytelling, with proven ability to translate business needs into impactful dashboards.  
+I specialize in building scalable dashboards and business intelligence solutions using Power BI, SQL, and Excel. With over 5 years of experience in data analytics, I have delivered impactful insights across e-commerce, banking, HR, procurement, and customer analytics.
 
----
+## About Me
+- Skilled in Power BI (DAX, Power Query, Dataflows, RLS, Governance)
+- Experience with SQL Server, Excel automation, and data pipelines
+- Focused on data storytelling, root cause analysis, and BI performance optimization
+- Certifications:  
+  - Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
+  - Power BI Developer Certification – Pro Visualizers  
+  - Lean Six Sigma AI Yellow Belt  
+  - PwC Virtual Internship – Data Analytics  
 
-## Skills  
-- Power BI (Data Modeling, DAX, Power Query, Report Building)  
-- SQL (Joins, Window Functions, Aggregations)  
-- Excel (Pivot Tables, Data Cleaning, Advanced Functions)  
-- Python (Basics for Analytics)  
-- Data Analysis & Business Intelligence Storytelling  
+## Experience
 
----
+### HP Inc. — Data Analyst (Quality Program Analyst / Product Quality Analyst)  
+Feb 2018 – Oct 2022 | Bangalore, India  
 
-## Projects  
-I have worked on 20+ projects across multiple domains. A few highlights include:  
+- Designed and deployed enterprise-wide Power BI dashboards integrating SQL, Hyperion, and CDAX data, increasing visibility of KPIs across AMS, EMEA, and APJ regions.  
+- Automated data preparation using Power Query and SQL, reducing manual effort by 30% and improving reporting turnaround time.  
+- Built KPI and root cause analysis dashboards that reduced AIR rates by 2%, driving down warranty costs and improving customer satisfaction.  
+- Developed logistics and inventory dashboards for APAC, accelerating decision-making and improving shipment tracking efficiency.  
+- Configured Power BI Service (RLS, dataflows, gateways, scheduled refresh) and authored SOPs, improving BI adoption and efficiency by 25%.  
 
-- [E-commerce Sales and Product Analysis](PowerBI_Projects/Ecommerce_Sales_Product_Analysis/)  
-- [PwC Churn Analysis](PowerBI_Projects/PwC_Churn_Analysis/)  
-- [PwC Call Centre Analysis](PowerBI_Projects/PwC_Call_Centre_Analysis/)  
-- [PwC Diversity and Inclusion Insights](PowerBI_Projects/PwC_Diversity_Inclusion_Insights/)  
-- [Banking Loan and Risk Portfolio Analysis](PowerBI_Projects/Banking_Loan_Risk_Analysis/)  
+### Independent Consultant — Data Analytics  
+Feb 2023 – Present | Remote  
 
----
+- Delivered dashboards across banking, HR, procurement, and retail domains, improving reporting accuracy and decision-making.  
+- Automated refresh pipelines and optimized data models, saving up to 40 percent manual reporting hours.  
+- Built practice projects including E-commerce Sales, Risk and Transaction Dashboards, and Procurement Spend Analysis.  
 
-## Contact  
-Email: [jahanavi@example.com](mailto:jahanavi@example.com)  
-LinkedIn: [linkedin.com/in/jahanavi](https://linkedin.com/in/jahanavi)  
-Portfolio: [jahanavims.github.io](https://jahanavims.github.io)  
+### PwC Virtual Internship — Data Analytics (via Forage)  
+Mar 2025 – Remote  
 
----
+- Designed Power BI dashboards for Churn Analysis, Call Centre KPIs, and Diversity and Inclusion.  
+- Applied drill-throughs, filters, and data storytelling techniques to deliver business-ready insights.  
 
-## Certifications  
-- Microsoft Certified: Power BI Data Analyst (PL-300)  
-- Other certifications can be listed here  
+## Featured Projects  
+These projects demonstrate my expertise in data analysis and visualization. have done 20+ reports
+
+- E-commerce Sales and Product Analysis  
+- PwC Churn Analysis  
+- PwC Call Centre and Customer Analysis  
+- PwC Diversity and Inclusion Insights  
+- Banking Loan and Risk Portfolio Analysis  
+
+## Skills
+- **Business Intelligence**: Power BI Desktop and Service, KPI Dashboards, Paginated Reports, Dataflows, RLS, Report Optimization, Dashboard Performance Tuning, Self-Service BI Enablement, Power BI Governance  
+- **Data Management**: SQL Server, Hyperion, CDAX CRM, Data Cleaning, Stored Procedures, Gateway Administration, Data Governance  
+- **Analytics and Visualization**: Business Intelligence Reporting, KPI Tracking, Trend Analysis, Root Cause Analysis, Warranty and Service Analytics, Supply Chain Reporting, Customer Experience Insights  
+- **Tools and Automation**: Excel (Advanced formulas, Pivot Tables, VLOOKUP), Power Automate, Python (Basic), R (Basic)  
+
+## Contact
+- LinkedIn: [linkedin.com/in/jahanavims](https://www.linkedin.com/in/jahanavims)  
+- Email: jahanavms@gmail.com  
