@@ -12,8 +12,8 @@ This project is part of the PwC Virtual Internship. I built a **diversity and in
 - Dashboard enabled monitoring of **inclusion KPIs** such as gender ratio, age group diversity, and promotions.  
 
 ## Dashboard Screenshots
-![Diversity Overview](images/diversity-overview.PNG)  
-![Gender Distribution](images/gender-distribution.PNG)  
+![Diversity Overview](images/Diversity_Inclusions.PNG)  
+![Gender Distribution](images/Diversity_Performance.PNG)  
 
 ## Power BI File
-[Download PBIX File](PwC_Diversity_Inclusion_Insights.pbix)
+[Download PBIX File](https://app.powerbi.com/links/EXJ7MWDOwZ?ctid=12802ece-a88b-4f6d-8b24-1d0bb7c8f43e&pbi_source=linkShare)
