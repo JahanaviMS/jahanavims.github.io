@@ -19,7 +19,7 @@ Key insights: Month-to-month contracts and fiber optic customers had the highest
 
 ---
 
-### [3. PwC Call Centre Analysis](./PwC-Call_Centre_Analysis/README.md)
+### [3. PwC Call Centre Analysis](./PwC_Call_Centre_Analysis/README.md)
 Analyzed call centre KPIs to identify efficiency bottlenecks, average handling time, and customer satisfaction trends.  
 Key insights: High call volumes on Mondays, long wait times drove dissatisfaction, and better resource planning reduced average handling time.  
 
