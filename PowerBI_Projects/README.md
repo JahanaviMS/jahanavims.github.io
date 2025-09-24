@@ -13,7 +13,7 @@ Key insights: Top categories contributed majority revenue, discounts drove sales
 
 ---
 
-### [2. PwC Churn Analysis](./PowerBI_Projects/PwC_Churn_Analysis/README.md)
+### [2. PwC Churn Analysis](./PwC_Churn_Analysis/README.md)
 Part of PwC Virtual Internship. Built churn dashboard to identify at-risk customers and retention strategies.  
 Key insights: Month-to-month contracts and fiber optic customers had the highest churn rates, while auto-payment customers showed higher retention.  
 
