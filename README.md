@@ -46,32 +46,32 @@ This repository showcases my selected **Power BI projects** covering diverse bus
 
 ## Projects
 
-### [1. E-commerce Sales and Product Analysis](./E-commerce%20Sales%20and%20Product%20Analysis]/README.md)
+### [1. E-commerce Sales and Product Analysis](./PowerBI_Projects/E-commerce%20Sales%20and%20Product%20Analysis]/README.md)
 
 Analyzed e-commerce sales data to identify revenue trends, product performance, and customer behavior.  
 Key insights: Top categories contributed majority revenue, discounts drove sales but reduced profit margins, Q4 seasonal spike observed.  
 
 ---
 
-### [2. PwC Churn Analysis](./PwC_Churn_Analysis/README.md)
+### [2. PwC Churn Analysis](./PowerBI_Projects/PwC_Churn_Analysis/README.md)
 Part of PwC Virtual Internship. Built churn dashboard to identify at-risk customers and retention strategies.  
 Key insights: Month-to-month contracts and fiber optic customers had the highest churn rates, while auto-payment customers showed higher retention.  
 
 ---
 
-### [3. PwC Call Centre Analysis](./PwC_Call_Centre%20_Analysis/README.md)
+### [3. PwC Call Centre Analysis](./PowerBI_Projects/PwC_Call_Centre%20_Analysis/README.md)
 Analyzed call centre KPIs to identify efficiency bottlenecks, average handling time, and customer satisfaction trends.  
 Key insights: High call volumes on Mondays, long wait times drove dissatisfaction, and better resource planning reduced average handling time.  
 
 ---
 
-### [4. PwC Diversity and Inclusion Insights](./PwC_Diversity_Inclusion_Insights/README.md)
+### [4. PwC Diversity and Inclusion Insights](./PowerBI_Projects/PwC_Diversity_Inclusion_Insights/README.md)
 Built diversity dashboards to measure representation, promotions, and attrition across departments.  
 Key insights: Gender imbalance at senior levels, under-representation in leadership roles, and higher attrition among minority groups.  
 
 ---
 
-### [5. Banking Loan and Risk Portfolio Analysis](./Banking_Loan_Risk_Analysis/README.md)
+### [5. Banking Loan and Risk Portfolio Analysis](./PowerBI_Projects/Banking_Loan_Risk_Analysis/README.md)
 Developed dashboards to monitor loan performance, defaults, and portfolio risk.  
 Key insights: High default rates in short-term loans, specific customer segments carried higher risk, and delinquency trends required closer monitoring.  
 
