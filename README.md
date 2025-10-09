@@ -15,6 +15,24 @@ I specialize in building scalable dashboards and business intelligence solutions
   - PwC Virtual Internship – Data Analytics  
 
 ## Experience
+### Independent Consultant — Data Analytics  
+Feb 2023 – Present | Remote  
+
+- Delivered dashboards across banking, HR, procurement, and retail domains, improving reporting accuracy and decision-making.  
+- Automated refresh pipelines and optimized data models, saving up to 40 percent manual reporting hours.  
+- Built practice projects including E-commerce Sales, Risk and Transaction Dashboards, and Procurement Spend Analysis.
+- Designed and delivered over 20 Power BI dashboards for banking, HR, procurement, and retail clients to improve reporting accuracy and decision-making.
+-	Built custom dashboards and tailored solutions to client requirements, ensuring actionable insights and easy-to-use visualizations.
+-	Managed end-to-end dashboard delivery including requirements, data modeling, DAX, visuals, and deployment with RLS.
+
+### PwC Virtual Internship — Data Analytics (via Forage)  
+Mar 2025 – Remote  
+
+- Designed Power BI dashboards for Churn Analysis, Call Centre KPIs, and Diversity and Inclusion.  
+- Applied drill-throughs, filters, and data storytelling techniques to deliver business-ready insights.
+- Translated insights into data stories and actionable recommendations for stakeholders.
+
+### Projects associated with Provisualizers
 
 ### HP Inc. — Data Analyst (Quality Program Analyst / Product Quality Analyst)  
 Feb 2018 – Oct 2022 | Bangalore, India  
@@ -23,20 +41,8 @@ Feb 2018 – Oct 2022 | Bangalore, India
 - Automated data preparation using Power Query and SQL, reducing manual effort by 30% and improving reporting turnaround time.  
 - Built KPI and root cause analysis dashboards that reduced AIR rates by 2%, driving down warranty costs and improving customer satisfaction.  
 - Developed logistics and inventory dashboards for APAC, accelerating decision-making and improving shipment tracking efficiency.  
-- Configured Power BI Service (RLS, dataflows, gateways, scheduled refresh) and authored SOPs, improving BI adoption and efficiency by 25%.  
-
-### Independent Consultant — Data Analytics  
-Feb 2023 – Present | Remote  
-
-- Delivered dashboards across banking, HR, procurement, and retail domains, improving reporting accuracy and decision-making.  
-- Automated refresh pipelines and optimized data models, saving up to 40 percent manual reporting hours.  
-- Built practice projects including E-commerce Sales, Risk and Transaction Dashboards, and Procurement Spend Analysis.  
-
-### PwC Virtual Internship — Data Analytics (via Forage)  
-Mar 2025 – Remote  
-
-- Designed Power BI dashboards for Churn Analysis, Call Centre KPIs, and Diversity and Inclusion.  
-- Applied drill-throughs, filters, and data storytelling techniques to deliver business-ready insights.  
+- Configured Power BI Service (RLS, dataflows, gateways, scheduled refresh) and authored SOPs, improving BI adoption and efficiency by 25%.
+- -	Conducted client training and created SOPs that increased BI adoption by 25%.
 
 ## # Power BI Projects Portfolio
 
@@ -46,7 +52,7 @@ This repository showcases my selected **Power BI projects** covering diverse bus
 
 ## Projects
 
-### [1. E-commerce Sales and Product Analysis](https://github.com/JahanaviMS/jahanavims.github.io/blob/main/PowerBI_Projects/E-commerce%20Sales%20and%20Product%20Analysis%5D/README.md)
+### [1. E-commerce Sales and Product Analysis](./PowerBI_Projects/E-commerce%20%Sales%20%and%20%Product%20%Analysis)
 
 Analyzed e-commerce sales data to identify revenue trends, product performance, and customer behavior.  
 Key insights: Top categories contributed majority revenue, discounts drove sales but reduced profit margins, Q4 seasonal spike observed.  
