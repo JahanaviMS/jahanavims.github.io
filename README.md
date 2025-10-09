@@ -52,8 +52,7 @@ This repository showcases my selected **Power BI projects** covering diverse bus
 
 ## Projects
 
-### [1. E-commerce Sales and Product Analysis](./PowerBI_Projects/E-commerce%20%Sales%20%and%20%Product%20%Analysis)
-
+### [1. E-commerce Sales and Product Analysis](./PowerBI_Projects/E-commerce%20%Sales%20%and%20%Product%20%Analysis/README.md)
 Analyzed e-commerce sales data to identify revenue trends, product performance, and customer behavior.  
 Key insights: Top categories contributed majority revenue, discounts drove sales but reduced profit margins, Q4 seasonal spike observed.  
 
