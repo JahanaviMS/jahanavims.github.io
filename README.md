@@ -42,7 +42,7 @@ Feb 2018 – Oct 2022 | Bangalore, India
 - Built KPI and root cause analysis dashboards that reduced AIR rates by 2%, driving down warranty costs and improving customer satisfaction.  
 - Developed logistics and inventory dashboards for APAC, accelerating decision-making and improving shipment tracking efficiency.  
 - Configured Power BI Service (RLS, dataflows, gateways, scheduled refresh) and authored SOPs, improving BI adoption and efficiency by 25%.
-- -	Conducted client training and created SOPs that increased BI adoption by 25%.
+- Conducted client training and created SOPs that increased BI adoption by 25%.
 
 ## # Power BI Projects Portfolio
 
